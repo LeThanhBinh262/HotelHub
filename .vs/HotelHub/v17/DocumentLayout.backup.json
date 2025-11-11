@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Do an tot nghi\u00EAp\\HotelHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C968D3-B2A0-4411-82A3-B72FBC339E84}|HotelHub.csproj|c:\\do an tot nghi\u00EAp\\hotelhub\\views\\booking\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C968D3-B2A0-4411-82A3-B72FBC339E84}|HotelHub.csproj|solutionrelative:views\\booking\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C968D3-B2A0-4411-82A3-B72FBC339E84}|HotelHub.csproj|c:\\do an tot nghi\u00EAp\\hotelhub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C968D3-B2A0-4411-82A3-B72FBC339E84}|HotelHub.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Do an tot nghi\u00EAp\\HotelHub\\Views\\Booking\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Search.cshtml",
+              "ToolTip": "C:\\Do an tot nghi\u00EAp\\HotelHub\\Views\\Booking\\Search.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T06:15:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Do an tot nghi\u00EAp\\HotelHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Do an tot nghi\u00EAp\\HotelHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T06:07:48.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

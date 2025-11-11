@@ -1,0 +1,28 @@
+@model IEnumerable<HotelHub.Models.Room>
+
+<h2>Room List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Room Type</th>
+            <th>Price</th>
+            <th>Availability</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var room in Model)
+        {
+            <tr>
+                <td>@room.RoomType</td>
+                <td>@room.Price</td>
+                <td>@(room.IsAvailable ? "Available" : "Not Available")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@room.Id" class="btn btn-primary">Details</a>
+                    <a asp-action="Create" asp-controller="Booking" asp-route-roomId="@room.Id" class="btn btn-success">Book Now</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
